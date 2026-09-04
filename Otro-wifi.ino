@@ -8,7 +8,6 @@ const char* ssid = "Atotech";
 const char* password = "smartfactory";
 
 // Broker MQTT
-// No agregues :1883 aquí
 const char* mqtt_server = "192.168.6.3";
 const int mqtt_port = 1883;
 
